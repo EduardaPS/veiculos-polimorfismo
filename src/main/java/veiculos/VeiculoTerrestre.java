@@ -6,4 +6,5 @@ public interface VeiculoTerrestre {
 
     void acelerar(int i);
 
+
 }
